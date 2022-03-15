@@ -1,2 +1,2 @@
 # UltraSoundImage
-Simple ultrasound images
+ultrasound images
